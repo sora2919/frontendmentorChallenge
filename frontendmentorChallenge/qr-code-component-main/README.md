@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution URL]([https://your-solution-url.com](https://github.com/sora2919/frontendmentorChallenge/tree/main/frontendmentorChallenge/qr-code-component-main))
-- Live Site URL: [live site URL]([https://your-live-site-url.com](https://sora2919.github.io/frontendmentorChallenge/frontendmentorChallenge/qr-code-component-main/))
+- Solution URL: [solution URL]([https://your-solution-url.com](https://github.com/sora2919/frontendmentorChallenge/tree/main/frontendmentorChallenge/qr-code-component-main)
+- Live Site URL: [live site URL]([https://your-live-site-url.com](https://sora2919.github.io/frontendmentorChallenge/frontendmentorChallenge/qr-code-component-main/)
