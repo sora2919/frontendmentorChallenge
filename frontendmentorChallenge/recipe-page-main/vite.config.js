@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/frontendmentorChallenge/recipe-page-main/'
+  base: '/frontendmentorChallenge/frontendmentorChallenge/recipe-page-main-dist/'
 })
