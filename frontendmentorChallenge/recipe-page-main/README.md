@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - [solution URL](https://github.com/sora2919/frontendmentorChallenge/tree/main/frontendmentorChallenge/recipe-page-main)
-- [live site URL](https://sora2919.github.io/frontendmentorChallenge/frontendmentorChallenge/recipe-page-main/)
+- [live site URL](https://sora2919.github.io/frontendmentorChallenge/frontendmentorChallenge/recipe-page-main-dist/)
 
 
 ## 流程/My process
